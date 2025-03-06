@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim:
 - 💻 Desenvolvedor JavaScript | TypeScript | React | Node.js
 - 🎯 Buscando sempre evoluir como programador
-- 📚 Atualmente estudando Front-end e um pouco do Back-end
+- 📚 Atualmente estudando Front-end ( principal ) porém me desenvolvo bem com o Back-end
 
 ---
 
@@ -29,8 +29,8 @@
 
 ### 📊 Estatísticas do GitHub:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloAlexF&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlexF&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
